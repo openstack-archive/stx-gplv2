@@ -1,0 +1,11 @@
+Code-Review+1: Scott Little <scott.little@windriver.com>
+Code-Review+2: Jesus Ornelas Aguayo <jesus.ornelas.aguayo@intel.com>
+Code-Review+1: Mingyuan Qi <mingyuan.qi@intel.com>
+Code-Review+2: Dean Troyer <dtroyer@gmail.com>
+Workflow+1: Dean Troyer <dtroyer@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 17 Jul 2018 15:44:02 +0000
+Reviewed-on: https://review.openstack.org/581159
+Project: openstack/stx-gplv2
+Branch: refs/heads/master
