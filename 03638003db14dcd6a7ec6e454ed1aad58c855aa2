@@ -1,0 +1,11 @@
+Code-Review+2: Saul Wold <sgw@linux.intel.com>
+Code-Review+1: Yi Wang <yi.c.wang@intel.com>
+Code-Review+2: Dean Troyer <dtroyer@gmail.com>
+Code-Review+1: Al Bailey <al.bailey@windriver.com>
+Workflow+1: Erich Cordoba <erich.cordoba.malibran@intel.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 20 Jul 2018 15:05:23 +0000
+Reviewed-on: https://review.openstack.org/584160
+Project: openstack/stx-gplv2
+Branch: refs/heads/master
