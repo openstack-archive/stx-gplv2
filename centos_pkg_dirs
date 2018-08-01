@@ -1,7 +1,6 @@
 dpkg
 cgcs-users
 cluster-resource-agents
-rpm
 libfdt
 bash
 haproxy
