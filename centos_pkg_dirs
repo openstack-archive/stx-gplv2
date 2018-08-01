@@ -10,7 +10,6 @@ iscsi-initiator-utils
 ldapscripts
 netpbm
 net-tools
-integrity
 drbd
 drbd-tools
 mariadb
