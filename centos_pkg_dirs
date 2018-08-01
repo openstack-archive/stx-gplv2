@@ -15,6 +15,5 @@ integrity
 drbd
 drbd-tools
 intel-ixgbe
-intel-ixgbevf
 qat17
 mariadb
