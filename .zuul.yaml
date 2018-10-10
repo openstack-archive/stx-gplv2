@@ -1,9 +1,4 @@
 ---
 - project:
-    check:
-      jobs:
-        - openstack-tox-linters:
-            voting: false
-    gate:
-      jobs:
-        - noop
+    templates:
+      - noop-jobs
